@@ -1,1 +1,1 @@
-My second readme
+It prints the operating system name.
